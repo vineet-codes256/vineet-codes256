@@ -1,3 +1,5 @@
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
 ## 👋 Hello, I'm Vineet Rawat!  
 
 ### 🧩 **Tech Enthusiast | Innovator | Full-Stack Developer | Creative Problem Solver**  
