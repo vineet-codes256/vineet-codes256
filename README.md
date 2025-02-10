@@ -1,10 +1,10 @@
 ## 👋 Hello, I'm Vineet Rawat!  
 
-### 🧩 **Tech Enthusiast | Full-Stack Developer | Creative Problem Solver**  
+### 🧩 **Tech Enthusiast | Innovator | Full-Stack Developer | Creative Problem Solver**  
 
 I'm a passionate techie and lifelong learner who thrives on crafting elegant solutions to complex problems. My journey into technology began as a child, fueled by an insatiable curiosity and an obsession with computers.  
 
-Over the years, I've built a diverse skill set spanning full-stack development, AI integration, and hardware customization. As someone living with monocular vision and neurodivergence (ADHD), I've cultivated a unique perspective that drives innovation, adaptability, and resilience.  
+Over the years, I've built a diverse skill set spanning programming, full-stack development, AI integration, and hardware customization. As someone living with monocular vision and neurodivergence (ADHD), I've cultivated a unique perspective that drives innovation, adaptability, and resilience.  
 
 ---
 
@@ -35,14 +35,14 @@ Over the years, I've built a diverse skill set spanning full-stack development, 
 ---
 
 ### 📌 **Featured Projects:**  
-- [📸 Camera App Chrome Extension](https://github.com/vineet-codes256) — 18,000+ installs with no marketing!  
-- 🧠 **AI Productivity Tools** for neurodivergent users  
+- Chrome Extensions — 18,000+ installs with no marketing!  
+- 🧠 **AI Productivity Tools** for focus enhancement. 
 - 🔧 **Custom PC Builds** for cost-efficient, high-performance systems  
 
 ---
 
 ### 🧘‍♂️ **Beyond Tech:**  
-I find peace in listening to verses from the Bhagavad Gita and love conducting market research for my dream mineral water brand.  
+I find peace in listening to verses from the Bhagavad Gita and love learning about cool stuff through YouTube University.
 
 ---
 
