@@ -4,16 +4,16 @@
 
 ### 🧩 **Tech Enthusiast | Innovator | Full-Stack Developer | Creative Problem Solver**  
 
-I'm a passionate techie and lifelong learner who thrives on crafting elegant solutions to complex problems. My journey into technology began as a child, fueled by an insatiable curiosity and an obsession with computers.  
+I'm a passionate techie and lifelong learner who thrives on crafting elegant solutions to complex problems. My journey into technology began as a child, fueled by an insatiable curiosity for science and technology.  
 
-Over the years, I've built a diverse skill set spanning programming, full-stack development, AI integration, and hardware customization. As someone living with monocular vision and neurodivergence (ADHD), I've cultivated a unique perspective that drives innovation, adaptability, and resilience.  
+As someone with learning difficulties due to neurodivergence (ADHD), I've cultivated a unique perspective that drives innovation, adaptability, and resilience. Over the years, I've built a diverse skill set spanning programming, full-stack development, AI integration, and hardware customization. 
 
 ---
 
 ### 🚀 **What I Do:**  
-- **Creative Coding:** Building impactful software solutions using **Python, JavaScript, React**, and **Node.js**.  
-- **AI Integration:** Designing SaaS platforms with **AI-driven features**.  
-- **Full-Stack Development:** Crafting scalable, user-centric applications.  
+- **Creative Coding:** Building impactful software solutions using **Python, JavaScript, Node.js, React**, and **DRF**.  
+- **AI Integration:** Integrating **AI-driven features** in SAAS products.  
+- **Full-Stack Development:** Passionate about Crafting scalable, user-centric applications that solves a problem.
 - **Innovation Advocacy:** Mentoring, collaborating, and driving meaningful innovations.  
 
 ---
@@ -37,7 +37,7 @@ Over the years, I've built a diverse skill set spanning programming, full-stack 
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-...and more  
+...and many more  
 
 ---
 
@@ -53,10 +53,14 @@ Over the years, I've built a diverse skill set spanning programming, full-stack 
 - 🧠 **AI Productivity Tools** for focus enhancement. 
 - 🔧 **Custom PC Builds** for cost-efficient, high-performance systems  
 
+| **🖥️ Custom PC Build** | <img src="https://github.com/user-attachments/assets/c152aeff-18ea-4e31-a42c-9f2bc122a650" alt="image" width="300"/> | Specs: <br> - Ryzen 5 7600 <br> - Rx6700XT <br> - 32GB 6000mhz DDR5 RAM 
+|:--:|:--:|:--|
+
+
 ---
 
 ### 🧘‍♂️ **Beyond Tech:**  
-I find peace in listening to verses from the Bhagavad Gita and love learning about cool stuff through YouTube University.
+I find peace in reading spritual texts, stories, listening to verses from the Bhagavad Gita, and the intriguing science stuff.
 
 ---
 
