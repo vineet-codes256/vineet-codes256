@@ -50,7 +50,7 @@ As someone with learning difficulties due to neurodivergence (ADHD), I've cultiv
 
 ### 📌 **Featured Projects:**  
 - Chrome Extensions — 18,000+ installs with no marketing!  
-- 🧠 **AI Productivity Tools** for focus enhancement. 
+- 🧠 **Productivity Tools** for focus enhancement. 
 - 🔧 **Custom PC Builds** for cost-efficient, high-performance systems  
 
 | **🖥️ Custom PC Build** | <img src="https://github.com/user-attachments/assets/c152aeff-18ea-4e31-a42c-9f2bc122a650" alt="image" width="300"/> | Specs: <br> - Ryzen 5 7600 <br> - Rx6700XT <br> - 32GB 6000mhz DDR5 RAM 
