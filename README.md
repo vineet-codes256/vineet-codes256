@@ -4,9 +4,9 @@
 
 ### 🧩 **Tech Enthusiast | Innovator | Full-Stack Developer | Creative Problem Solver**  
 
-I'm a passionate techie and lifelong learner who thrives on crafting elegant solutions to complex problems. My journey into technology began as a child, fueled by an insatiable curiosity for science and technology.  
+I'm a passionate engineer, techie and learn-it-all learner who thrives on crafting elegant solutions to complex problems. My technology journey began as a child, fueled by an insatiable curiosity for science and technology.  
 
-As someone with learning difficulties due to neurodivergence (ADHD), I've cultivated a unique perspective that drives innovation, adaptability, and resilience. Over the years, I've built a diverse skill set spanning programming, full-stack development, AI integration, and hardware customization. 
+As someone with neurodivergence (ADHD), I've cultivated a unique perspective that drives innovation, adaptability, and resilience. Over the years, I've built a diverse skill set spanning programming, full-stack development, AI integration, and hardware customization. 
 
 ---
 
