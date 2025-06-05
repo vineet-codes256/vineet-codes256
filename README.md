@@ -1,28 +1,36 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-## 👋 Hello, I'm Vineet Rawat!  
+## 👋 Hello, I'm Vineet Rawat  
 
-### 🧩 **Tech Enthusiast | Innovator | Full-Stack Developer | Creative Problem Solver**  
+### 🧠 Full-Stack Product Engineer | AI Automator | Systems Thinker | Relentless Builder
 
-I'm a passionate engineer, linux enthusiast, techie and learn-it-all learner who thrives on crafting elegant solutions to complex problems. My technology journey began as a child, fueled by an insatiable curiosity for science and technology.  
+I’m a self-taught engineer obsessed with solving real-world problems using code, automation, and AI. From hacking my first scripts to building full-stack SaaS platforms and automating workflows with LLMs, my path has always been shaped by curiosity, resilience, and deep systems thinking.
 
-As someone with neurodivergence (ADHD), I've cultivated a unique perspective that drives innovation, adaptability, and resilience. Over the years, I've built a diverse skill set spanning programming, full-stack development, AI integration, and hardware customization. 
-
----
-
-### 🚀 **What I Do:**  
-- **Creative Coding:** Building impactful software solutions using **Python, JavaScript, Node.js, React**, and **DRF**.  
-- **AI Integration:** Integrating **AI-driven features** in SAAS products.  
-- **Full-Stack Development:** Passionate about Crafting scalable, user-centric applications that solves a problem.
-- **Innovation Advocacy:** Mentoring, collaborating, and driving meaningful innovations.  
+As a neurodivergent creator (ADHD), I approach problems from unconventional angles — often discovering leaner, faster, smarter solutions that others miss.
 
 ---
 
-### 🛠️ **Tech Stack:**  
+### 💡 What Drives Me
+
+- 🛠 **Building with Purpose:** I craft systems that solve meaningful problems — not just features.
+- 🤖 **AI Automation:** Leveraging APIs like OpenAI, Claude, and Gemini to streamline workflows and augment human potential.
+- 🧩 **Full-Stack Engineering:** From Python backends to React frontends, I design scalable, intuitive products end to end.
+- 🔁 **Workflow Engineering:** Automating internal operations, scraping data, and building bots that make life easier.
+
+---
+
+### 🚀 Current Focus
+
+- 🔬 AI + Automation tooling  
+- 🧠 LLM-powered apps, prompt engineering  
+- ⚙️ Python scripting, APIs, browser automation  
+- 🧱 Building internal tools for startups & product teams  
+
+---
+
+### 🛠 Tech Toolbox
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-3b5998?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -30,41 +38,22 @@ As someone with neurodivergence (ADHD), I've cultivated a unique perspective tha
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-FF9900?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-...and many more  
+---
+
+### 📫 Let's Build Something Cool
+
+- ✨ Portfolio & projects on [GitHub](https://github.com/vineet-codes256)  
+- 📬 Reach me: vineetrawat512@gmail.com  
+- 🧠 LinkedIn: [linkedin.com/in/vineetrawat512](https://linkedin.com/in/vineetrawat512)
 
 ---
 
-### 🌱 **Currently Exploring:**  
-- **Cybersecurity:** Pursuing Google Cybersecurity Professional Certificate  
-- **Leadership Roles:** Pivoting towards strategy and leadership in tech  
-- **Inclusive Tech Advocacy:** Building tools for neurodivergent and differently-abled users  
+> "Code is not just syntax — it’s leverage. I write to empower humans, automate chaos, and engineer a better world."
 
----
-
-### 📌 **Featured Projects:**  
-- Chrome Extensions — 18,000+ installs with no marketing!  
-- 🧠 **Productivity Tools** for focus enhancement. 
-- 🔧 **Custom PC Builds** for cost-efficient, high-performance systems  
-
-| **🖥️ Custom PC Build** | <img src="https://github.com/user-attachments/assets/c152aeff-18ea-4e31-a42c-9f2bc122a650" alt="image" width="300"/> | Specs: <br> - Ryzen 5 7600 <br> - Rx6700XT <br> - 32GB 6000mhz DDR5 RAM 
-|:--:|:--:|:--|
-
-
----
-
-### 🧘‍♂️ **Beyond Tech:**  
-I find peace in reading spritual texts, stories, listening to verses from the Bhagavad Gita, and the intriguing science stuff.
-
----
-
-### 📫 **Let’s Connect:**  
-- **[LinkedIn](https://www.linkedin.com/in/vineetrawat256)**  
-- **[Email](mailto:vineetrawat256@gmail.com)**  
-- **[GitHub](https://github.com/vineet-codes256)** 
