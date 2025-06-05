@@ -1,8 +1,8 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-## 👋 Hello, I'm Vineet Rawat  
+## <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" alt="👋" width="28" height="28"/> Hello, I'm Vineet Rawat  
 
-### 🧠 Full-Stack Product Engineer | AI Automator | Systems Thinker | Relentless Builder
+### <img src="https://media.tenor.com/tJOFSq9U6QwAAAAi/brainiac-brain.gif" alt="🧠" width="28" height="28"> Full-Stack Product Engineer | AI Automator | Systems Thinker | Relentless Builder
 
 I’m a self-taught engineer obsessed with solving real-world problems using code, automation, and AI. From hacking my first scripts to building full-stack SaaS platforms and automating workflows with LLMs, my path has always been shaped by curiosity, resilience, and deep systems thinking.
 
@@ -10,21 +10,21 @@ As a neurodivergent creator (ADHD), I approach problems from unconventional angl
 
 ---
 
-### 💡 What Drives Me
+### <img src="https://media.tenor.com/OkKxZR52Qi8AAAAi/light-bulb-joypixels.gif" alt="💡" width="28" height="28"/> What Drives Me
 
 - 🛠 **Building with Purpose:** I craft systems that solve meaningful problems — not just features.
-- 🤖 **AI Automation:** Leveraging APIs like OpenAI, Claude, and Gemini to streamline workflows and augment human potential.
+- <img src="https://media.tenor.com/6mjhORYQX1UAAAAi/dm4uz3-foekoe.gif" alt="🤖" width="22" height="22"/> **AI Automation:** Leveraging APIs like OpenAI, Claude, and Gemini to streamline workflows and augment human potential.
 - 🧩 **Full-Stack Engineering:** From Python backends to React frontends, I design scalable, intuitive products end to end.
 - 🔁 **Workflow Engineering:** Automating internal operations, scraping data, and building bots that make life easier.
 
 ---
 
-### 🚀 Current Focus
+### <img src="https://media.tenor.com/QhRvvwpCdVoAAAAi/rocket.gif" alt="🚀" width="28" height="28" style=""/> Current Focus
 
 - 🔬 AI + Automation tooling  
-- 🧠 LLM-powered apps, prompt engineering  
-- ⚙️ Python scripting, APIs, browser automation  
-- 🧱 Building internal tools for startups & product teams  
+- <img src="https://media.tenor.com/tJOFSq9U6QwAAAAi/brainiac-brain.gif" alt="🧠" width="20" height="20"> LLM-powered apps, prompt engineering  
+- <img src="https://media.tenor.com/otJaZBLIjhoAAAAi/yin-yang-wheel.gif" alt="⚙️" width="20" height="20"> Python scripting, APIs, browser automation  
+- <img src="https://media.tenor.com/bnG9NZdIQe4AAAAi/pudgy-pudgypenguin.gif" alt="🧱" width="20" height="20"> Building internal tools for startups & product teams  
 
 ---
 
@@ -49,9 +49,9 @@ As a neurodivergent creator (ADHD), I approach problems from unconventional angl
 
 ### 📫 Let's Build Something Cool
 
-- ✨ Portfolio & projects on [GitHub](https://github.com/vineet-codes256)  
+- <img src="https://media.tenor.com/yT9zapbfNp4AAAAi/star-glitter.gif" alt="✨" width="20" height="20"> Portfolio & projects on [GitHub](https://github.com/vineet-codes256)  
 - 📬 Reach me: vineetrawat512@gmail.com  
-- 🧠 LinkedIn: [linkedin.com/in/vineetrawat512](https://linkedin.com/in/vineetrawat512)
+- <img src="https://media.tenor.com/tJOFSq9U6QwAAAAi/brainiac-brain.gif" alt="🧠" width="20" height="20"> LinkedIn: [linkedin.com/in/vineetrawat512](https://linkedin.com/in/vineetrawat512)
 
 ---
 
