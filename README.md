@@ -12,7 +12,7 @@ As a neurodivergent creator (ADHD), I approach problems from unconventional angl
 
 ### <img src="https://media.tenor.com/OkKxZR52Qi8AAAAi/light-bulb-joypixels.gif" alt="💡" width="28" height="28"/> What Drives Me
 
-- 🛠 **Building with Purpose:** I craft systems that solve meaningful problems — not just features.
+- 🛠 **Building with Purpose:** I like to craft systems that solve meaningful problems.
 - <img src="https://media.tenor.com/6mjhORYQX1UAAAAi/dm4uz3-foekoe.gif" alt="🤖" width="22" height="22"/> **AI Automation:** Leveraging APIs like OpenAI, Claude, and Gemini to streamline workflows and augment human potential.
 - 🧩 **Full-Stack Engineering:** From Python backends to React frontends, I design scalable, intuitive products end to end.
 - 🔁 **Workflow Engineering:** Automating internal operations, scraping data, and building bots that make life easier.
