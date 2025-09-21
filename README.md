@@ -60,8 +60,7 @@ As a neurodivergent creator (ADHD), I approach problems from unconventional angl
 ### 📫 Let's Build Something Cool
 
 - <img src="https://media.tenor.com/yT9zapbfNp4AAAAi/star-glitter.gif" alt="✨" width="20" height="20"> Portfolio & projects on [GitHub](https://github.com/vineet-codes256)  
-- 📬 Reach me: vineetrawat512@gmail.com  
-- <img src="https://media.tenor.com/tJOFSq9U6QwAAAAi/brainiac-brain.gif" alt="🧠" width="20" height="20"> LinkedIn: [linkedin.com/in/vineetrawat512](https://linkedin.com/in/vineetrawat512)
+- 📬 Reach me: vineetrawat512@gmail.com
 
 ---
 
