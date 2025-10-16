@@ -54,6 +54,10 @@ As a neurodivergent creator (ADHD), I approach problems from unconventional angl
 </p>
 
 > ...and honestly? If it's programmable, I’ve probably already automated it, reverse-engineered it, or shipped it in production before.
+---
+
+![64F085AD-FC04-420E-833E-8D18B5BA92BD_1_201_a](https://github.com/user-attachments/assets/8fddaa6d-776d-434a-a164-4b021095809f)
+
 
 ---
 
