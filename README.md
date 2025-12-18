@@ -62,4 +62,4 @@ As a neurodivergent builder with monocular vision, I have learned to prioritize 
 
 ---
 
-> "You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions." — *Reflection on the Bhagavad Gita*
+> "You have a right to your actions, but never to the fruits of your actions." — *Bhagavad Gita* > — *(Just do things; the rest follows.)*
