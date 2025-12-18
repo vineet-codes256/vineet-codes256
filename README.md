@@ -1,72 +1,65 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-## <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" alt="👋" width="28" height="28"/> Hello, I'm Vineet Rawat  
+## <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" alt="👋" width="28" height="28"/> Hello, I'm Vineet Rawat
 
-### <img src="https://media.tenor.com/tJOFSq9U6QwAAAAi/brainiac-brain.gif" alt="🧠" width="28" height="28"> Full-Stack Product Engineer | AI Automator | Systems Thinker | Relentless Builder
+### <img src="https://media.tenor.com/tJOFSq9U6QwAAAAi/brainiac-brain.gif" alt="🧠" width="28" height="28"> Founder @ RIPL | Architect of NearbyConnect | Full-Stack Product Engineer
 
-I’m a self-taught engineer obsessed with solving real-world problems using code, automation, and AI. From hacking my first scripts to building full-stack SaaS platforms and automating workflows with LLMs, my path has always been shaped by curiosity, resilience, and deep systems thinking.
+I am a self-taught engineer and the Director of **Rawat Innovations Private Limited (RIPL)**. My work is defined by resilience, curiosity, and a "just do things" mindset. With 3+ years of startup experience, I specialize in building lean, impactful tech that solves real human problems.
 
-As a neurodivergent creator (ADHD), I approach problems from unconventional angles — often discovering leaner, faster, smarter solutions that others miss.
+As a neurodivergent builder with monocular vision, I have learned to prioritize high-leverage engineering over high-screen-time chaos. I thrive in structured, quiet environments where I can think deeply and ship fast.
 
 ---
 
-### <img src="https://media.tenor.com/OkKxZR52Qi8AAAAi/light-bulb-joypixels.gif" alt="💡" width="28" height="28"/> What Drives Me
+### <img src="https://media.tenor.com/OkKxZR52Qi8AAAAi/light-bulb-joypixels.gif" alt="💡" width="28" height="28"/> What I’m Building
 
-- 🛠 **Building with Purpose:** I like to craft systems that solve meaningful problems.
-- <img src="https://media.tenor.com/6mjhORYQX1UAAAAi/dm4uz3-foekoe.gif" alt="🤖" width="22" height="22"/> **AI Automation:** Leveraging APIs like OpenAI, Claude, and Gemini to streamline workflows and augment human potential.
-- 🧩 **Full-Stack Engineering:** From Python backends to React frontends, I design scalable, intuitive products end to end.
-- 🔁 **Workflow Engineering:** Automating internal operations, scraping data, and building bots that make life easier.
+* 📍 **NearbyConnect:** A hyperlocal social discovery platform designed to reinvent how people connect within physical proximity. Currently in Alpha.
+* 🏗 **Rawat Innovations (RIPL):** My focus is on building a sustainable tech ecosystem that prioritizes utility, authentic community, and engineering excellence.
+* 🔐 **Cybersecurity & Systems:** Currently pursuing the Google Cybersecurity Professional Certificate to fortify the infrastructure of everything I ship.
+* 🤖 **Applied AI:** Implementing LLMs (Gemini, Claude, OpenAI) to automate internal operations and augment product features.
 
 ---
 
 ### <img src="https://media.tenor.com/QhRvvwpCdVoAAAAi/rocket.gif" alt="🚀" width="28" height="28" style=""/> Current Focus
 
-- 🔬 AI + Automation tooling  
-- <img src="https://media.tenor.com/tJOFSq9U6QwAAAAi/brainiac-brain.gif" alt="🧠" width="20" height="20"> LLM-powered apps, prompt engineering  
-- <img src="https://media.tenor.com/otJaZBLIjhoAAAAi/yin-yang-wheel.gif" alt="⚙️" width="20" height="20"> Python scripting, APIs, browser automation  
-- <img src="https://media.tenor.com/bnG9NZdIQe4AAAAi/pudgy-pudgypenguin.gif" alt="🧱" width="20" height="20"> Building internal tools for startups & product teams  
+* Refining the Alpha of **NearbyConnect** for Android and Web.
+* Scaling **RIPL** into a respected, engineering-driven company.
+* Pursuing my BA in Tourism Studies (IGNOU) to broaden my perspective beyond the screen.
+* Maintaining a disciplined routine of physical growth, regular study, and early-morning deep work.
 
 ---
 
 ### 🛠 Tech Toolbox
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Automation-FF9900?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Browser%20Automation-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Cyber%2520Security-CC0000%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle%26logoColor%3Dwhite" />
 </p>
 
-> ...and honestly? If it's programmable, I’ve probably already automated it, reverse-engineered it, or shipped it in production before.
+> If it’s programmable, I’ve probably already automated it or reverse-engineered it. I build for stability, scalability, and impact.
+
 ---
 
 ![64F085AD-FC04-420E-833E-8D18B5BA92BD_1_201_a](https://github.com/user-attachments/assets/8fddaa6d-776d-434a-a164-4b021095809f)
 
+---
+
+### 📫 Connect with Me
+
+* 🌐 **Company:** [Rawat Innovations](https://rawatinnovations.com)
+* 📍 **Project:** [NearbyConnect](https://karmicinnovations.com)
+* 💼 **Professional:** [LinkedIn](https://www.linkedin.com/in/vintrwt/)
+* 🐦 **Updates:** [X (Twitter)](https://x.com/vintrwt)
+* 📬 **Email:** vineetrawat512@gmail.com
 
 ---
 
-### 📫 Let's Build Something Cool
-
-- <img src="https://media.tenor.com/yT9zapbfNp4AAAAi/star-glitter.gif" alt="✨" width="20" height="20"> Portfolio & projects on [GitHub](https://github.com/vineet-codes256)  
-- 📬 Reach me: vineetrawat512@gmail.com
-
----
-
-> "Code is not just syntax — it’s leverage. I write to empower humans, automate chaos, and engineer a better world."
-
+> "You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions." — *Reflection on the Bhagavad Gita*
