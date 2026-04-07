@@ -2,9 +2,9 @@
 
 ## <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" alt="👋" width="28" height="28"/> Hello, I'm Vineet Rawat
 
-### <img src="https://media.tenor.com/tJOFSq9U6QwAAAAi/brainiac-brain.gif" alt="🧠" width="28" height="28"> Founder @ RIPL | Architect of NearbyConnect | Full-Stack Product Engineer
+### <img src="https://media.tenor.com/tJOFSq9U6QwAAAAi/brainiac-brain.gif" alt="🧠" width="28" height="28"> Founder @ Rawat Innovations | Architect of NearbyConnect | Full-Stack Product Engineer
 
-I am a self-taught engineer and the Director of **Rawat Innovations Private Limited (RIPL)**. My work is defined by resilience, curiosity, and a "just do things" mindset. With 3+ years of startup experience, I specialize in building lean, impactful tech that solves real human problems.
+I am a self-taught engineer and the Director of **Rawat Innovations Private Limited**. My work is defined by resilience, curiosity, and a "just do things" mindset. With 4+ years of startup experience, I specialize in building lean, impactful tech that solves real human problems.
 
 As a neurodivergent builder with monocular vision, I have learned to prioritize high-leverage engineering over high-screen-time chaos. I thrive in structured, quiet environments where I can think deeply and ship fast.
 
@@ -13,7 +13,7 @@ As a neurodivergent builder with monocular vision, I have learned to prioritize 
 ### <img src="https://media.tenor.com/OkKxZR52Qi8AAAAi/light-bulb-joypixels.gif" alt="💡" width="28" height="28"/> What I’m Building
 
 * 📍 **NearbyConnect:** A hyperlocal social discovery platform designed to reinvent how people connect within physical proximity. Currently in Alpha.
-* 🏗 **Rawat Innovations (RIPL):** My focus is on building a sustainable tech ecosystem that prioritizes utility, authentic community, and engineering excellence.
+* 🏗 **Rawat Innovations:** My focus is on building a sustainable tech ecosystem that prioritizes utility, authentic community, and engineering excellence.
 * 🔐 **Cybersecurity & Systems:** Currently pursuing the Google Cybersecurity Professional Certificate to fortify the infrastructure of everything I ship.
 * 🤖 **Applied AI:** Implementing LLMs (Gemini, Claude, OpenAI) to automate internal operations and augment product features.
 
@@ -22,7 +22,7 @@ As a neurodivergent builder with monocular vision, I have learned to prioritize 
 ### <img src="https://media.tenor.com/QhRvvwpCdVoAAAAi/rocket.gif" alt="🚀" width="28" height="28" style=""/> Current Focus
 
 * Refining the Alpha of **NearbyConnect** for Android and Web.
-* Scaling **RIPL** into a respected, engineering-driven company.
+* Scaling **Rawat Innovations** into a respected, engineering-driven company.
 * Pursuing my BA in Tourism Studies (IGNOU) to broaden my perspective beyond the screen.
 * Maintaining a disciplined routine of physical growth, regular study, and early-morning deep work.
 
