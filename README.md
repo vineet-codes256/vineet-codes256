@@ -23,19 +23,9 @@ I work across product architecture, backend systems, frontend development, infra
 
 ### ✈️ Tripplis
 
-A B2B SaaS travel management platform developed under an independent contract engagement with WebShot Digital for one of M37Labs's client. 
+A B2B SaaS travel management platform developed under an independent contract engagement with WebShot Digital, for an end client through M37Labs.
 
-I work as an independent individual contributor with end-to-end ownership across engineering and product development. Although the engagement began with a backend-heavy mandate, my scope spans the full product lifecycle, from architecture and backend systems to the React frontend, infrastructure, technical implementation, and product decisions.
-
-My work includes:
-
-- Designing and developing a multi-application Django backend
-- Building APIs, authorization systems, business workflows, and domain logic
-- Developing and maintaining the React frontend across multiple product portals
-- Owning technical architecture and implementation decisions
-- Working across backend, frontend, infrastructure, and deployment
-- Contributing directly to product direction, requirements, UX decisions, and feature prioritization
-- Taking features and product capabilities from problem definition through implementation and delivery
+I work as an independent IC with end-to-end ownership across engineering and product development. Originally engaged with a backend-heavy mandate, my scope expanded across Django backend systems, React frontend development, architecture, infrastructure, technical implementation, and product decisions.
 
 **Stack:** Python · Django · Django REST Framework · PostgreSQL · React · JavaScript/TypeScript · Docker
 
@@ -132,19 +122,6 @@ One of my browser extensions grew to **11,000+ active users**.
 **AI & Automation**
 
 `LLM Integrations` `OpenAI APIs` `Anthropic API` `LangChain` `CrewAI` `AI Agents` `Workflow Automation` `Web Automation`
-
-## 📌 Public Repositories
-
-My pinned repositories represent a mix of open-source work, independent products, utilities, and technical experiments:
-
-- **agent-skills** : Reusable skills and workflows for AI coding agents
-- **LinkedOut** : Browser extension for a cleaner LinkedIn experience
-- **Acer Nitro Brightness Control GUI** : Python desktop utility for hardware brightness control
-- **rawat-innovations-page** : Production website for Rawat Innovations
-- **Hanuman Chalisa Cards** : Interactive web product and independent experiment
-- **community-link-radar** : TypeScript-based community discovery experiment
-
-Much of my production engineering work was developed for employers, clients, or private products and is therefore not publicly available.
 
 ## 🎓 Education & Learning
 
