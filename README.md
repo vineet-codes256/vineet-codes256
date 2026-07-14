@@ -23,9 +23,9 @@ I work across product architecture, backend systems, frontend development, infra
 
 ### ✈️ Tripplis
 
-A B2B SaaS travel management platform developed under an independent contract engagement through Rawat Innovations.
+A B2B SaaS travel management platform developed under an independent contract engagement with WebShot Digital for one of M37Labs's client. 
 
-I work as an independent individual contributor with end-to-end ownership across engineering and product development. Although the engagement began with a backend-heavy mandate, my scope spans the full product lifecycle—from architecture and backend systems to the React frontend, infrastructure, technical implementation, and product decisions.
+I work as an independent individual contributor with end-to-end ownership across engineering and product development. Although the engagement began with a backend-heavy mandate, my scope spans the full product lifecycle, from architecture and backend systems to the React frontend, infrastructure, technical implementation, and product decisions.
 
 My work includes:
 
@@ -37,7 +37,7 @@ My work includes:
 - Contributing directly to product direction, requirements, UX decisions, and feature prioritization
 - Taking features and product capabilities from problem definition through implementation and delivery
 
-**Stack:** Python · Django · Django REST Framework · PostgreSQL · React · JavaScript/TypeScript
+**Stack:** Python · Django · Django REST Framework · PostgreSQL · React · JavaScript/TypeScript · Docker
 
 ### 🤖 agent-skills
 
@@ -62,12 +62,6 @@ An interactive digital experience built around the Hanuman Chalisa.
 An independent product experiment exploring lightweight web applications, content presentation, and user experience.
 
 ## 💼 Engineering Experience
-
-### Retained Independent Software Engineer: Full-Stack, Product, Backend & Systems
-
-Working as an independent individual contributor on Tripplis, a B2B SaaS travel management platform. 
-
-Originally engaged with a backend-heavy mandate, my role expanded into end-to-end ownership across the product and engineering lifecycle. 
 
 ### Independent Software Engineer: Full-Stack, Product & Systems
 
@@ -162,7 +156,7 @@ Currently pursuing my undergraduate degree while continuing independent technica
 
 Studied programming, computational thinking, mathematics, statistics, and data science foundations.
 
-**Computer Science & Engineering : College of Engineering Roorkee**
+**Foundations of Computer Science and Engineering : College of Engineering Roorkee**
 
 Studied foundational computer science and engineering coursework.
 
@@ -185,14 +179,13 @@ Outside engineering, I'm interested in tourism, geography, sustainability, and h
 
 - 🌐 **Company:** https://rawatinnovations.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/vintrwt/
-- 𝕏 **X:** https://x.com/vintrwt
+- ✕ **X:** https://x.com/vintrwt
 - 📧 **Email:** vineet@rawatinnovations.com
 
 ---
 
-> “You have a right to your actions, but never to the fruits of your actions.”
-
-— Bhagavad Gita
-
-**Just do things. The rest follows.**
-
+> "You have a right to your actions, but never to the fruits of your actions."
+>
+> -- Bhagavad Gita
+>
+> **Just do things. The rest follows.**
