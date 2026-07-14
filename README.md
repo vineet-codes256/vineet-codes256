@@ -1,115 +1,198 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 # Hi, I'm Vineet Rawat 👋
 
-**Software Engineer · Product Builder · Founder at Rawat Innovations**
+**Software Engineer · Product & Systems · Independent IC · Founder**
 
-I’m a self-taught software engineer with 4+ years of experience building and shipping products in startup environments.
+I'm a self-taught software engineer with 4+ years of experience building and shipping backend systems, full-stack products, browser extensions, automation systems, and applied AI features in startup environments.
 
-My work spans backend systems, full-stack applications, developer tools, browser extensions, automation, and applied AI. I enjoy turning ambiguous problems into practical software and taking products from idea to deployment.
+I enjoy taking ambiguous problems, understanding the underlying systems, and turning them into practical software.
 
-Currently, I’m building **Rawat Innovations Private Limited** and working on **NearbyConnect**, a hyperlocal social discovery platform.
+Most of my professional engineering work lives in private commercial repositories. This GitHub contains selected products, open-source work, utilities, experiments, and projects from different stages of my engineering journey.
 
-## What I'm Working On
+Currently, I work on backend systems and product engineering while building **Rawat Innovations Private Limited** and **NearbyConnect**, a private-source hyperlocal social discovery product.
+
+## 🚀 Selected Work
 
 ### 📍 NearbyConnect
 
-A hyperlocal social discovery platform for discovering people, communities, and activity around you.
+A private-source hyperlocal social discovery platform focused on helping people discover and connect with people, communities, and activity around them.
 
-Currently focused on:
+I work across product architecture, backend systems, frontend development, infrastructure, deployment, and product iteration.
 
-* Product development across web and Android
-* Location-aware discovery and social features
-* Backend architecture and infrastructure
-* Authentication, notifications, and platform reliability
-* Iterating toward a stable public release
+**Stack:** React · TypeScript · Supabase · PostgreSQL · Capacitor
 
-### 🏗️ Rawat Innovations
+### ✈️ Tripplis
 
-I founded Rawat Innovations to build useful software products and experiment with ideas across AI, developer tools, accessibility, digital platforms, and emerging technologies.
+A B2B SaaS travel management platform developed under an independent contract engagement through Rawat Innovations.
 
-My goal is to build a small, sustainable, engineering-driven technology company capable of repeatedly turning ideas into useful products.
+I work as an independent individual contributor with end-to-end ownership across engineering and product development. Although the engagement began with a backend-heavy mandate, my scope spans the full product lifecycle—from architecture and backend systems to the React frontend, infrastructure, technical implementation, and product decisions.
 
-## Experience
+My work includes:
 
-Over the past several years, I’ve worked across startup engineering environments building:
+- Designing and developing a multi-application Django backend
+- Building APIs, authorization systems, business workflows, and domain logic
+- Developing and maintaining the React frontend across multiple product portals
+- Owning technical architecture and implementation decisions
+- Working across backend, frontend, infrastructure, and deployment
+- Contributing directly to product direction, requirements, UX decisions, and feature prioritization
+- Taking features and product capabilities from problem definition through implementation and delivery
 
-* Backend APIs and distributed application infrastructure
-* Full-stack web applications
-* Browser extensions and developer tools
-* AI-powered product features and automation systems
-* Internal tools and workflow automation
-* Cloud infrastructure and deployment pipelines
+**Stack:** Python · Django · Django REST Framework · PostgreSQL · React · JavaScript/TypeScript
 
-I’ve worked with products used by thousands of users and enjoy operating at the intersection of engineering, product thinking, and experimentation.
+### 🤖 agent-skills
 
-## Tech Stack
+Open-source agent skills and reusable workflows for AI coding agents.
+
+This repository is part of my experimentation with AI-assisted software engineering, reusable agent capabilities, and developer tooling.
+
+### 🚫 LinkedOut
+
+A browser extension designed to remove job postings from the LinkedIn feed, allowing users to focus on networking and professional content.
+
+### 💻 Acer Nitro Brightness Control GUI
+
+A Python desktop utility built to solve brightness-control issues on Acer Nitro systems.
+
+A small example of the kind of engineering I enjoy: identifying a concrete problem, understanding the underlying system, and building a practical solution.
+
+### 🕉️ Hanuman Chalisa Cards
+
+An interactive digital experience built around the Hanuman Chalisa.
+
+An independent product experiment exploring lightweight web applications, content presentation, and user experience.
+
+## 💼 Engineering Experience
+
+### Retained Independent Software Engineer: Full-Stack, Product, Backend & Systems
+
+Working as an independent individual contributor on Tripplis, a B2B SaaS travel management platform. 
+
+Originally engaged with a backend-heavy mandate, my role expanded into end-to-end ownership across the product and engineering lifecycle. 
+
+### Independent Software Engineer: Full-Stack, Product & Systems
+
+Working as an independent individual contributor on Tripplis, a B2B SaaS travel management platform.
+
+Originally engaged with a backend-heavy mandate, my role expanded into end-to-end ownership across the product and engineering lifecycle.
+
+I work across:
+
+- Backend architecture and Django application development
+- REST APIs, authorization, domain logic, and business workflows
+- React frontend development across multiple product portals
+- Database design and infrastructure
+- System architecture and technical decision-making
+- Product requirements, UX discussions, and feature prioritization
+- Translating business problems into technical systems and shipped product capabilities
+
+I operate as an independent IC with substantial autonomy over implementation and contribute directly to the technical and product direction of the platform.
+
+### Founder @ Rawat Innovations Pvt. Ltd.
+
+Founded Rawat Innovations in 2025 to build software products and experiment with ideas across digital platforms, AI, accessibility, developer tools, and emerging technologies.
+
+Currently building NearbyConnect and other independent products while handling engineering, product development, infrastructure, and company operations.
+
+### Software Developer @ Abun
+
+Worked across full-stack product engineering and applied AI.
+
+- Built and maintained SaaS features using React and Django REST Framework
+- Developed backend systems and APIs
+- Integrated generative AI and LLM-powered features into production workflows
+- Worked across feature development, integration, and deployment
+
+### Software Developer @ Prospectss
+
+Worked on browser extensions, automation systems, backend services, and data-processing pipelines.
+
+- Built and maintained 25+ growth-marketing tools and browser extensions
+- Developed Python-based web automation and data-processing systems
+- Built backend services and integrations
+- Helped onboard, mentor, and unblock other developers
+
+### Independent Product Development
+
+I've independently built and shipped browser extensions, utilities, web applications, developer tools, and product experiments.
+
+One of my browser extensions grew to **11,000+ active users**.
+
+## 🧰 Technologies
 
 **Languages**
 
-`Python` `JavaScript` `TypeScript` `HTML` `CSS`
+`Python` `JavaScript` `TypeScript`
 
-**Backend**
+**Backend & Data**
 
-`Django` `Django REST Framework` `Node.js` `Express` `PostgreSQL` `MongoDB` `Redis` `RabbitMQ`
+`Django` `Django REST Framework` `FastAPI` `Node.js` `Express` `PostgreSQL` `MongoDB` `Redis` `RabbitMQ`
 
 **Frontend**
 
 `React` `Vue.js` `Vite` `Tailwind CSS`
 
-**Infrastructure & Tools**
+**Infrastructure & Engineering**
 
-`Docker` `Kubernetes` `GitHub Actions` `AWS` `GCP` `Linux` `CI/CD`
+`Docker` `Kubernetes` `Linux` `GitHub Actions` `CI/CD` `AWS` `GCP`
 
 **AI & Automation**
 
-`OpenAI APIs` `LLM Applications` `AI Agents` `CrewAI` `Workflow Automation`
+`LLM Integrations` `OpenAI APIs` `Anthropic API` `LangChain` `CrewAI` `AI Agents` `Workflow Automation` `Web Automation`
 
-## Selected Work
+## 📌 Public Repositories
 
-### NearbyConnect
+My pinned repositories represent a mix of open-source work, independent products, utilities, and technical experiments:
 
-Hyperlocal social discovery platform focused on connecting people and communities through location-aware experiences.
+- **agent-skills** : Reusable skills and workflows for AI coding agents
+- **LinkedOut** : Browser extension for a cleaner LinkedIn experience
+- **Acer Nitro Brightness Control GUI** : Python desktop utility for hardware brightness control
+- **rawat-innovations-page** : Production website for Rawat Innovations
+- **Hanuman Chalisa Cards** : Interactive web product and independent experiment
+- **community-link-radar** : TypeScript-based community discovery experiment
 
-**Stack:** React · TypeScript · Supabase · PostgreSQL · Capacitor
+Much of my production engineering work was developed for employers, clients, or private products and is therefore not publicly available.
 
-### Simple Emoji Picker
+## 🎓 Education & Learning
 
-A browser extension that makes finding and inserting emojis faster and easier.
+**BA in Tourism Studies : IGNOU**
 
-Built and maintained as part of my experience developing browser extensions and lightweight productivity tools.
+Currently pursuing my undergraduate degree while continuing independent technical study and product development.
 
-### Startup Product Engineering
+**Foundations of Data Science & Programming : IIT Madras**
 
-Contributed to the development of SaaS products, automation systems, AI-powered features, APIs, browser extensions, and growth tools used by thousands of users.
+Studied programming, computational thinking, mathematics, statistics, and data science foundations.
 
-## Beyond Engineering
+**Computer Science & Engineering : College of Engineering Roorkee**
 
-I'm interested in:
+Studied foundational computer science and engineering coursework.
 
-* Artificial intelligence and agentic systems
-* Accessibility and assistive technology
-* Cybersecurity
-* Developer tools
-* Product engineering
-* Entrepreneurship
-* Robotics and hardware systems
+## 🔭 Current Interests
 
-I’m also pursuing a **BA in Tourism Studies from IGNOU**, which has broadened my interests beyond technology into tourism, geography, sustainability, and how people interact with places and communities.
+I'm particularly interested in:
 
-## Connect
+- Backend systems and software architecture
+- Developer tools and AI-assisted software engineering
+- Accessibility and assistive technology
+- Applied AI and agentic systems
+- Cybersecurity
+- Product engineering and entrepreneurship
+- Robotics and hardware systems
+- Human behavior and the interaction between technology and society
 
-🌐 Rawat Innovations: https://rawatinnovations.com
+Outside engineering, I'm interested in tourism, geography, sustainability, and how people interact with places and communities.
 
-💼 LinkedIn: https://www.linkedin.com/in/vintrwt/
+## 📫 Connect
 
-𝕏 X: https://x.com/vintrwt
-
-📧 Email: [vineetrawat512@gmail.com](mailto:vineetrawat512@gmail.com)
+- 🌐 **Company:** https://rawatinnovations.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/vintrwt/
+- 𝕏 **X:** https://x.com/vintrwt
+- 📧 **Email:** vineet@rawatinnovations.com
 
 ---
 
 > “You have a right to your actions, but never to the fruits of your actions.”
-> -- Bhagavad Gita
 
-> Just do things. The rest follows.
+— Bhagavad Gita
+
+**Just do things. The rest follows.**
 
